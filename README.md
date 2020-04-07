@@ -5,7 +5,7 @@ Print both STL files for the filter assembly at .20mm with no supports. Both ite
 
 The flat pattern PDF contains instructions for assembling the mask
 
-Please visit https://basicrespirator.com or https://www.thingiverse.com/thing:4265814for more assembly photos and further informatation about this mask. 
+Please visit https://basicrespirator.com or https://www.thingiverse.com/thing:4265814 for more assembly photos and further informatation about this mask. 
 
 
 DISCLAIMER
