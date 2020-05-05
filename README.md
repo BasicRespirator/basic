@@ -1,5 +1,5 @@
 # basic
-Disposable Respirator
+Disposable & Reusable Respirator
 
 Print both STL files for the filter assembly at .20mm with no supports. Both models print in a little over an hour and do not require cleanup. The flat patterns can be printed and traced, lasercut or CNC cut. The patterns are the same but are for different materials, construction and application.
 
