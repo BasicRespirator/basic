@@ -25,8 +25,7 @@ LICENSE
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Basic Respirator by Hunter Futo is licensed under a [Creative Commons Attribution-ShareAlike 4.0
-International License][cc-by-sa].
+Basic Respirator by Electric Church Inc. is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
