@@ -1,17 +1,12 @@
 # basic
 Disposable & Reusable Respirator
 
-Print both STL files for the filter assembly at .20mm with no supports. Both models print in a little over an hour and do not require cleanup. The flat patterns can be printed and traced, lasercut or CNC cut. The patterns are the same but are for different materials, construction and application.
+Print both STL files for the filter assembly at .20mm with no supports. The flat patterns can be printed and traced, lasercut or CNC cut. The patterns are the same but are for different materials, construction and application. Instructions will be made available for the reusable version.
 
 
-May 4th updates include:
-•  Reusable mask and harness 
-•  Photos, videos and sketches
-
-
-If you make this mask any trouble with the instructions, files or fit, please email me at basicrespirator@gmail.com I am happy to help explain things and it is great user feedback as well.
-
-Please visit https://basicrespirator.com for more assembly photos and further informatation about this mask. 
+May 18th updates include:
+•  Filter Assembly for standard 3.125 inch filter size
+•  Flat patterns to match standardized NIOSH head forms. 
 
 
 DISCLAIMER
@@ -25,7 +20,7 @@ LICENSE
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Basic Respirator by Electric Church Inc. is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+Basic Respirator by Hunter Futo of Electric Church Inc. is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
