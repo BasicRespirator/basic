@@ -1,17 +1,15 @@
 # basic
-Disposable & Reusable Respirator
+Disposable & Reneweable Respirator
 
-Print both STL files for the filter assembly at .20mm with no supports. The flat patterns can be printed and traced, lasercut or CNC cut. The patterns are the same but are for different materials, construction and application. Instructions will be made available for the reusable version.
+This project is still under development. I post progress and files periodically, but the most recent work is on my local drive. Feel free to email me with questions at basicrespirator@gmail.com and/or I can add you to the mailing list for updates. 
 
-
-May 18th updates include:
-•  Filter Assembly for standard 3.125 inch filter size
-•  Flat patterns to match standardized NIOSH head forms. 
-
+October 27th updates include:
+•  Updated flat pattern for cut & sew version and harness
+•  Uploaded STL of 3D printable model
+•  Updated photos
 
 DISCLAIMER
-
-This respirator is not certified and is only offered as a potential solution when better alternatives are not available. It is not NIOSH certified or FDA approved. Please use your best judgement and discretion before wearing this mask and observe the guidelines recommended by the CDC and public health departments. We do not claim that this mask is guaranteed to keep you protected from COVID-19.
+This respirator design is not NIOSH certified or FDA approved. Please use your best judgement and discretion before wearing this mask and observe the guidelines recommended by the CDC and public health departments. We do not claim that this mask is guaranteed to keep you protected from COVID-19.
 
 If you are a hospital or clinician interested in reviewing and/or testing this design, please email basicrespirator@gmail.com for an evaluation kit.
 
