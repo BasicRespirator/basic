@@ -3,10 +3,10 @@ Disposable & Reneweable Respirator
 
 This project is still under development. I post progress and files periodically, but the most recent work is on my local drive. Feel free to email me with questions at basicrespirator@gmail.com and/or I can add you to the mailing list for updates. 
 
-October 27th updates include:
-•  Updated flat pattern for cut & sew version and harness
-•  Uploaded STL of 3D printable model
-•  Updated photos
+December 1st updates include:
+•  Updated flat patterns for all 5 NIOSH recommended sizes
+•  Updated 3D printable mask in medium
+•  Updated filter assembly
 
 DISCLAIMER
 This respirator design is not NIOSH certified or FDA approved. Please use your best judgement and discretion before wearing this mask and observe the guidelines recommended by the CDC and public health departments. We do not claim that this mask is guaranteed to keep you protected from COVID-19.
