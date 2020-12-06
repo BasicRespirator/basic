@@ -1,9 +1,9 @@
 # basic
 Basic Respirator comes in 3 versions 
 
-1: Reusable 3D printable
-2: Reusable cut & sew from water repellant ballistic nylon fabric with 3D printed filter assembly
-3: Disposable cut & fold from Tyvek 1073B with 3D printed filter assembly
+1: Reusable 3D printable</br>
+2: Reusable cut & sew from water repellant ballistic nylon fabric with 3D printed filter assembly</br>
+3: Disposable cut & fold from Tyvek 1073B with 3D printed filter assembly</br>
 
 All versions accept a standard 3 1/8" N95 disc filter manufactured by Honeywell or Moldex. Neoprene is used for the seal against the face and to prevent leakage through the filter assembly. 
 
