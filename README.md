@@ -1,4 +1,6 @@
 # basic
+All files and descriptions within this repo are patent pending.
+
 Basic Respirator comes in 3 versions 
 
 1: Reusable 3D printable</br>
